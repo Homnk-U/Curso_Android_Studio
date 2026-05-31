@@ -1,4 +1,4 @@
-package com.dripn.hola
+package com.dripn.hola 
 
 import android.Manifest
 import android.content.Intent // Para lanzar la app de la cámara
